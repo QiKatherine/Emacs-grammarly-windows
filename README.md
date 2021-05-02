@@ -1,5 +1,5 @@
 # Introduction
-This is a workaround script for exporting text from Emacs buffer to use Grammarly.
+This is a workaround script for exporting text from Emacs buffer to use Grammarly. <br>
 We export text to MS word file because Emacs Windows seems to have an issue in calling the Grammarly app.
 
 -----
